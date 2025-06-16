@@ -116,7 +116,7 @@ TRANSLATIONS = {
         "go_to": "Go to",
         "about_app_title": "About SME TaxEase",
         "about_app_desc": "This prototype aims to show how SME TaxEase Rwanda will:\n- **Simplify Tax Compliance:** By breaking down complex tax concepts into easy steps.\n- **Reduce Costs:** Minimizing reliance on external tax professionals by empowering you with knowledge.\n- **Increase Compliance:** By providing clear tools and information for accurate and timely filings.",
-        "developed_by": "Developed with ❤️ for Rwandan SMEs.",
+        "developed_by": "Developed by Jean Claude Dushime for Rwandan SMEs.",
         "copyright": "SME TaxEase Rwanda © 2025",
         "onboarding_desc_short": "Set up your business profile and understand your tax obligations.",
         "calculator_desc_short": "Estimate your tax liabilities based on your financial inputs.",
